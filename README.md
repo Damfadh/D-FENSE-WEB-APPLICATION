@@ -206,9 +206,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Support
 
-- Email: support@genfitid.com
+- Email: support@xxxx.com
 - WhatsApp: +62-XXX-XXXX-XXXX
-- Documentation: https://docs.genfitid.com
+- Documentation: https://xxxx.com
 
 ## 🏥 Medical Disclaimer
 
